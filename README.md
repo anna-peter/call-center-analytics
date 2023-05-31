@@ -1,1 +1,2 @@
-# call-center-analytics
+# Call Center Analytics
+In this repository you can find a Jupyter notebook that goes through the steps of setting up post-call analytics, providing summarization and sentiment of a customer call. We leverage Azure speech to text and Azure OpenAI for this use case. The language can be chosen as any of the (supported languages)[https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support?tabs=stt] - in this use case we choose Swiss German. Please refer to the (Microsoft Azure OpenAI samples)[https://github.com/Azure/azure-openai-samples/tree/main/use_cases] for general use cases.
